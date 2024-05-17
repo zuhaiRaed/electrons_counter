@@ -14,6 +14,9 @@ class Electron {
   Color currentColor;
   Color targetColor;
 
+
+  ////asd 
+
   double _positionPercent = 0;
 
   double get positionPercent {
